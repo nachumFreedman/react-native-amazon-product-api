@@ -16,6 +16,7 @@
         "json2csv": "^4.5.3",
         "moment": "^2.27.0",
         "ora": "^4.0.2",
+        "react-native-fs": "^2.16.6",
         "request": "^2.88.0",
         "request-promise": "^4.2.4",
         "tough-cookie": "^3.0.1",
